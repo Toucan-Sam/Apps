@@ -1,7 +1,7 @@
 # About
 This is just a list of apps that I personally have/use on various machines. Hopefully to make your life a little easier. Lots of it you'll probably know. Some of it you may not. Basically a list of personal recommendations. I may not always currently be using something on this list, but I've used it at least once for a significant amount of time. Also a list for me to find things when I wipe my machine(s).
 
-Full Disclaimer: Some of this software may damage or modify your device in unintended ways. I will try to highlight anything that is a particular risk, but all responsibility is ultimately yours.
+**Full Disclaimer:** Some of this software may damage or modify your device in unintended ways. I will try to highlight anything that is a particular risk, but all responsibility is ultimately yours.
 
 
 # Windows
@@ -16,7 +16,7 @@ Full Disclaimer: Some of this software may damage or modify your device in unint
 * [Opera](https://www.opera.com/) - Built on Chrome, but includes a built in ad blocker and free VPN features. Really good if you want a little extra from Chrome.
 
 ### Extensions
-* uBlock Origin ([Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Opera](https://addons.opera.com/en/extensions/details/ublock/)) - Currently the best ad blocker on the market as far as I can tell. Tons of features. Completely changes how you see the web. WARNING: If you get excited and block everything (you should!) you may need to temporarily disable uBlock Origin as it will block buttons on websites sometimes. Thankfully you can whitelist sites to not use the ad blocker if you run into any issues.
+* uBlock Origin ([Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Opera](https://addons.opera.com/en/extensions/details/ublock/)) - Currently the best ad blocker on the market as far as I can tell. Tons of features. Completely changes how you see the web. **WARNING:** If you get excited and block everything (you should!) you may need to temporarily disable uBlock Origin as it will block buttons on websites sometimes. Thankfully you can whitelist sites to not use the ad blocker if you run into any issues.
 * [BitWarden](https://bitwarden.com/#download) - Replace LastPass! Free open-source password manager that will change your life. Apps avaliable for Android and iPhone. 
 * [EnhancedSteam](http://www.enhancedsteam.com/) - If you play games you use Steam. If you use Steam, install this. It will tell you the current and best prices for games. Definitely worth checking out.
 * Stylus ([Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Opera](https://addons.opera.com/en/extensions/details/stylus/)) - Skins the web! Want a dark version of your favorite website? This is how you do it.
@@ -41,7 +41,7 @@ Full Disclaimer: Some of this software may damage or modify your device in unint
 * [VMware Workstation](https://www.vmware.com/products/workstation-pro.html) - Premiere virtualization tool. VirtualBox is a great open-source/free alternative.
 
 ## Media
-* [VLC](http://www.videolan.org/) - *THE* only media player you'll ever need. Seriously. If it doesn't play in VLC it's either broken or a scam.
+* [VLC](http://www.videolan.org/) - **THE** only media player you'll ever need. Seriously. If it doesn't play in VLC it's either broken or a scam.
 * [Google Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - If you subscribe (or even use) Google Music, this is a godsend. Google Music without a browser. Sort of.
 * [NZBGet](https://nzbget.net/) - If you know what an NZB is you want this. If you don't, nothing to see here.
 
@@ -52,7 +52,7 @@ Full Disclaimer: Some of this software may damage or modify your device in unint
 
 # Android
 ## Ad Blocking
-* [Blokada](https://blokada.org/index.html) - *THE* ad blocker for Android. No root required. Install this.
+* [Blokada](https://blokada.org/index.html) - **THE** ad blocker for Android. No root required. Install this.
 
 ## Authentication
 * [Authy](https://authy.com/) - Great 2 Factor Authentication app. Save your 2FAs to an encrypted cloud.
