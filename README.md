@@ -6,146 +6,99 @@ Full Disclaimer: Some of this software may damage or modify your device in unint
 
 # Windows
 ## General System
-Everything
-
-PowerPlanSwitcher
-
-7Zip
-
+* Everything
+* PowerPlanSwitcher
+* 7Zip
 
 ## Browsers
-Chrome
-
-Firefox
-
-Opera
-
+* Chrome
+* Firefox
+* Opera
 
 ### Extensions
-uBlock Origin
-
-BitWarden
-
-EnhancedSteam
-
-Stylus
-
+* uBlock Origin
+* BitWarden
+* EnhancedSteam
+* Stylus
 
 ## Gaming
-Steam
+* Steam
 
 
 ## Communication
-Discord
-
-TeamSpeak
-
-Quassel
-
-TCChat
-
+* Discord
+* TeamSpeak
+* Quassel
+* TCChat
 
 ## Productivity
-SublimeText
-
-WinSCP
-
-SumatraPDF
-
-Remote Desktop Manager
-
+* SublimeText
+* WinSCP
+* SumatraPDF
+* Remote Desktop Manager
 
 ## Media
-VLC
-
-Google Music Desktop Player
-
-NZBGet
-
+* VLC
+* Google Music Desktop Player
+* NZBGet
 
 ## Network
-Private Internet Access
-
-NordVPN
-
+* Private Internet Access
+* NordVPN
+* OpenConnect
 
 # Linux
 ## Automation
-Ansible
-
+* Ansible
 
 ## Web Servers
-NGINX
-
+* NGINX
 
 # Android
 ## Ad Blocking
-Blokada
-
+* Blokada
 
 ## Authentication
-Authy
-
-BitWarden
-
+* Authy
+* BitWarden
 
 ## Communication
-Signal
-
-WhatsApp
-
-Facebook Lite
-
-Facebook Less Crap
-
+* Signal
+* WhatsApp
+* Facebook Lite
+* Facebook Less Crap
 
 ## Vehicle
-Android Auto
-
-Fuelio
-
+* Android Auto
+* Fuelio
 
 ## Gadgets
-Mi Band Tools
-
+* Mi Band Tools
 
 ## Productivity
-Out of Milk
-
-AlarmDroid
-
+* Out of Milk
+* AlarmDroid
 
 ## Lifestyle
-BiteSnap
-
+* BiteSnap
 
 ## Network
-Private Internet Access
-
-NordVPN
-
+* Private Internet Access
+* NordVPN
 
 ## Media
-Yatse
-
-Gallery
-
+* Yatse
+* Gallery
 
 ## Customization
-Navbar Apps
-
+* Navbar Apps
 
 ## Root
 ### Magisk
-YouTube Vanced
-
-Call Recording
-
-Single User Mod
-
-Xposed
-
+* YouTube Vanced
+* Call Recording
+* Single User Mod
+* Xposed
 
 ### Xposed
-TwitchNoAds
-
+* TwitchNoAds
