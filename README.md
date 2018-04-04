@@ -90,7 +90,7 @@ This is just a list of apps that I personally have/use on various machines. Hope
 * [Navbar Apps](https://play.google.com/store/apps/details?id=pl.damianpiwowarski.navbarapps) - Lets you use a transparent Navbar on Android. No root required. Great for phones with no physical buttons. I also don't understand how this isn't a normal feature, but whatever. Here it is.
 
 ## Root
-WARNING: These apps require advanced knowledge of Android and require a custom recovery. Don't even look at this section if the thought of losing your phone for a couple of days while you fix it makes you nervous.
+**WARNING:** These apps require advanced knowledge of Android and require a custom recovery. Don't even look at this section if the thought of losing your phone for a couple of days while you fix it makes you nervous.
 * [Magisk](https://forum.xda-developers.com/apps/magisk/official-magisk-v7-universal-systemless-t3473445) - Allows for systemless root. Add tons of features to your device without breaking Google Pay.
 * [Xposed (Systemless)](https://forum.xda-developers.com/xposed/unofficial-systemless-xposed-t3388268) - This is the version compatible with Magisk above. Allows for all sorts of in-app trickery.
 ### Magisk Modules
