@@ -41,7 +41,7 @@ This is just a list of apps that I personally have/use on various machines. Hope
 * [VMware Workstation](https://www.vmware.com/products/workstation-pro.html) - Premiere virtualization tool. VirtualBox is a great open-source/free alternative.
 
 ## Media
-* [VLC](http://www.videolan.org/) - **THE** only media player you'll ever need. Seriously. If it doesn't play in VLC it's either broken or a scam.
+* [VLC](http://www.videolan.org/) - The **ONLY** media player you'll ever need. Seriously. If it doesn't play in VLC it's either broken or a scam.
 * [Google Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - If you subscribe (or even use) Google Music, this is a godsend. Google Music without a browser. Sort of.
 * [NZBGet](https://nzbget.net/) - If you know what an NZB is you want this. If you don't, nothing to see here.
 
