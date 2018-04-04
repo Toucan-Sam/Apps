@@ -7,96 +7,145 @@ Full Disclaimer: Some of this software may damage or modify your device in unint
 # Windows
 ## General System
 Everything
+
 PowerPlanSwitcher
+
 7Zip
+
 
 ## Browsers
 Chrome
+
 Firefox
+
 Opera
+
 
 ### Extensions
 uBlock Origin
+
 BitWarden
+
 EnhancedSteam
+
 Stylus
+
 
 ## Gaming
 Steam
 
+
 ## Communication
 Discord
+
 TeamSpeak
+
 Quassel
+
 TCChat
+
 
 ## Productivity
 SublimeText
+
 WinSCP
+
 SumatraPDF
+
 Remote Desktop Manager
+
 
 ## Media
 VLC
+
 Google Music Desktop Player
+
 NZBGet
+
 
 ## Network
 Private Internet Access
+
 NordVPN
+
 
 # Linux
 ## Automation
 Ansible
 
+
 ## Web Servers
 NGINX
+
 
 # Android
 ## Ad Blocking
 Blokada
 
+
 ## Authentication
 Authy
+
 BitWarden
+
 
 ## Communication
 Signal
+
 WhatsApp
+
 Facebook Lite
+
 Facebook Less Crap
+
 
 ## Vehicle
 Android Auto
+
 Fuelio
+
 
 ## Gadgets
 Mi Band Tools
 
+
 ## Productivity
 Out of Milk
+
 AlarmDroid
+
 
 ## Lifestyle
 BiteSnap
 
+
 ## Network
 Private Internet Access
+
 NordVPN
+
 
 ## Media
 Yatse
+
 Gallery
+
 
 ## Customization
 Navbar Apps
 
+
 ## Root
 ### Magisk
 YouTube Vanced
+
 Call Recording
+
 Single User Mod
+
 Xposed
+
 
 ### Xposed
 TwitchNoAds
+
