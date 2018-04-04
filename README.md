@@ -36,6 +36,8 @@ Full Disclaimer: Some of this software may damage or modify your device in unint
 * WinSCP
 * SumatraPDF
 * Remote Desktop Manager
+* HeidiSQL
+* VMware
 
 ## Media
 * VLC
