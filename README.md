@@ -9,7 +9,7 @@ This is just a list of apps that I personally have/use on various machines. Hope
 * [Everything](https://www.voidtools.com/) - Replaces Windows search completely with an instant search. Actually find things again!
 * [PowerPlanSwitcher](https://www.microsoft.com/store/productId/9NBLGGH556L3) - Laptops - Windows 10 removed the ablity to switch power plans depending on wether using a wall plug or battery. This restores that.
 * [7Zip](https://www.7-zip.org/) - Still using WinRAR? WinZip? Just use Windows Explorer to open zip files? Fix that. This opens any compressed files that you'd actually want to open.
-* [Malwarebytes (aka MBAM)](https://www.malwarebytes.com/) - In my personal experience, this has been excellent at finding and removing less than desirable things from your system. Also very few false positives which means it isn't removing stuff it just doesn't like, but is actually dangerous.
+* [Malwarebytes (aka MBAM)](https://www.malwarebytes.com/) - In my personal experience, this has been excellent at finding and removing less than desirable things from your system. Also very few false positives which means it isn't removing stuff it just doesn't like, but is actually dangerous. That being said, the Windows 10 built-in anti-virus is often more than sufficient.
 
 ## Browsers
 * [Chrome](https://www.google.com/chrome/) - Anything is better than Internet Explorer (or Edge). Chrome is a great replacement.
