@@ -46,7 +46,7 @@ This is just a list of apps that I personally have/use on various machines. Hope
 * [Google Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - If you subscribe (or even use) Google Music, this is a godsend. Google Music without a browser. Sort of.
 * [NZBGet](https://nzbget.net/) - If you know what an NZB is you want this. If you don't, nothing to see here.
 * [µTorrent](http://www.utorrent.com/) - My preferred torrent client (for Windows), though I don't use torrents much anymore. **Pro-tip:** Use the link below. µTorrent is not what it used to be unfortunately.
-* [Pimp My µTorrent](https://clips.twitch.tv/NastyGoodBobaChocolateRain) - Removes the annoying ads in µTorrent. Nothing to install. Just visit the website, click the button.
+* [Pimp My µTorrent](https://clips.twitch.tv/NastyGoodBobaChocolateRain) - Removes the annoying ads in µTorrent. Saves you $5/year which shouldn't even be a thing. Nothing to install. Just visit the website, click the button.
 
 ## Network
 * [Private Internet Access](https://www.privateinternetaccess.com/) - An absolutely excellent and easy to use VPN service. It's not cheap but there are often good deals (Google for coupons!). Works on Windows, Mac, Android, iPhone, and Linux.
