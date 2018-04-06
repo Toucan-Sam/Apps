@@ -72,7 +72,7 @@ This is just a list of apps that I personally have/use on various machines. Hope
 * [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio) - Keep track of fuel and other vehicle expenses. Also supports multiple cars and multi-device syncing is in beta.
 
 ## Gadgets
-* [Mi Band Tools](https://play.google.com/store/apps/details?id=cz.zdenekhorak.mibandtools) - If you have a Mi Band (any version) you should have this app. The Mi Band is a great fitness bracelet but Mi Band tools makes it worth having. Better notifications and tons of stuff you don't get in the official app.
+* [Mi Band Tools](https://play.google.com/store/apps/details?id=cz.zdenekhorak.mibandtools) - If you have a Mi Band (any version) you should have this app. The Mi Band is a great fitness bracelet (And only $30 bucks!) but Mi Band tools makes it worth having. Better notifications and tons of stuff you don't get in the official app.
 
 ## Productivity
 * [Out of Milk](https://play.google.com/store/apps/details?id=com.capigami.outofmilk) - No ads. Simple shareable lists. Great for not having to ask your partner to send you a list of what you need at the grocery store or anywhere else really.
