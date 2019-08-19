@@ -28,13 +28,10 @@ This is just a list of apps that I personally have/use on various machines. Hope
 
 ## Communication
 * [Discord](https://discordapp.com/) - It's Discord. If you play games you probably already have this installed. If you don't play games, it's still awesome for connecting to communities about anything and everything.
-* [BetterDiscord](https://betterdiscord.net/home/) - Make Discord better! Install plugins and themes finally! *Pro-tip:* Any time Discord updates you'll probably have to reinstall this. It won't break Discord though.
-* [TeamSpeak](https://www.teamspeak.com/en/downloads) - The best. Before Discord anyway. Still handy to have.
 * [Quassel](https://quassel-irc.org/) - IRC. Remember mIRC? This is a way better version. Not overly fancy, but a solid client with the ability to install it in client/server mode. Run the server somewhere else and connect to it from your laptop or your phone.
-* [TCChat](https://gettc.xyz/) - Twitch chat client. Great for being involved in multiple chats without actually having to keep all the individual streams open.
 
 ## Productivity
-* [SublimeText](https://www.sublimetext.com/) - Just a text editor. Except it's tabbed. And fast. Oh, and it's got way more features than you'll ever use, but when you do you'll thank me.
+* [VS Code](https://code.visualstudio.com//) - Just a text editor. Except it's tabbed. And fast. Oh, and it's got way more features than you'll ever use.
 * [WinSCP](https://winscp.net/eng/download.php) - FTP/S and SFTP client. Super handy for the everything.
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Lightweight PDF reader. That's all. If you're not editing PDFs get rid of Adobe or Foxit and use this. It's perfect.
 * [Remote Desktop Manager](https://remotedesktopmanager.com/) - Incredibly useful tool that merges RDP, SSH, and a ton of other remote access tools into a single, easy to use, interface.
@@ -51,7 +48,6 @@ This is just a list of apps that I personally have/use on various machines. Hope
 ## Network
 * [Private Internet Access](https://www.privateinternetaccess.com/) - An absolutely excellent and easy to use VPN service. It's not cheap but there are often good deals (Google for coupons!). Works on Windows, Mac, Android, iPhone, and Linux.
 * [NordVPN](https://nordvpn.com/) - A second and also awesome VPN experience. Same deal. Google for coupons. Well worth the money though.
-* [OpenConnect](https://github.com/openconnect/openconnect-gui/releases) - A great open-source AnyConnect client. Save profiles! Use 2FA automatically! Woo!
 
 # Android
 ## Ad Blocking
@@ -59,10 +55,11 @@ This is just a list of apps that I personally have/use on various machines. Hope
 
 ## Authentication
 * [Authy](https://authy.com/) - Great 2 Factor Authentication app. Save your 2FAs to an encrypted cloud.
-* [BitWarden](https://bitwarden.com/#download) - Replace LastPass! Free open-source password manager that will change your life. Apps avaliable for Android and iPhone. 
+* [BitWarden](https://bitwarden.com/#download) - Replace LastPass! Free open-source password manager that will change your life. Apps avaliable for Android and iPhone.
+* [LastPass](https://www.lastpass.com) - A good free option with apps for Android and iPhone.
 
 ## Communication
-* [Signal](https://signal.org/) - The only properly free, no metadata gathering, privacy protecting, instant messenger. Text, pictures, voice and video calls.
+* [Signal](https://signal.org/) - The only properly free, no metadata gathering, privacy protecting, instant messenger. Text, pictures, voice and video calls. Does everything the rest of them do AND protects your privacy.
 * [WhatsApp](https://www.whatsapp.com/) - Nice lightweight messenger with no advertising. Owned by Facebook though.
 * [Facebook Messenger Lite](https://play.google.com/store/apps/details?id=com.facebook.mlite&hl=en) - Facebook Messenger without all the bloat. Much smaller app size and a cleaner interface without extra junk.
 * [Facebook Less Crap](https://forum.xda-developers.com/android/apps-games/bullshified-version-facebook-okay-to-t3586318) - Replaces the official Facebook app. Removes ads, sponsored posts, and a bunch of other junk. *Pro-tip:* You MUST uninstall any official Facebook apps to use this. The link also provides Messenger and Messenger Lite apps that are compatible.
@@ -75,11 +72,7 @@ This is just a list of apps that I personally have/use on various machines. Hope
 * [Mi Band Tools](https://play.google.com/store/apps/details?id=cz.zdenekhorak.mibandtools) - If you have a Mi Band (any version) you should have this app. The Mi Band is a great fitness bracelet (And only $30 bucks!) but Mi Band tools makes it worth having. Better notifications and tons of stuff you don't get in the official app.
 
 ## Productivity
-* [Out of Milk](https://play.google.com/store/apps/details?id=com.capigami.outofmilk) - No ads. Simple shareable lists. Great for not having to ask your partner to send you a list of what you need at the grocery store or anywhere else really.
 * [AlarmDroid](https://play.google.com/store/apps/details?id=com.splunchy.android.alarmclock) - Simple alarm clock app but easily the best. Supports schedules, multiple alarms, and my personal favorite flip to snooze! Just flip your device over and it snoozes automatically. No need to even look at the screen.
-
-## Lifestyle
-* [BiteSnap](https://play.google.com/store/apps/details?id=ai.bite.biteapp) - Really neat app for keep track of your diet. Take a picture and it'll guess what it is and it's usually pretty close.
 
 ## Network
 * [Private Internet Access](https://www.privateinternetaccess.com/) - An absolutely excellent and easy to use VPN service. It's not cheap but there are often good deals (Google for coupons!). Works on Windows, Mac, Android, iPhone, and Linux.
@@ -88,9 +81,6 @@ This is just a list of apps that I personally have/use on various machines. Hope
 ## Media
 * [Yatse](https://play.google.com/store/apps/details?id=org.leetzone.android.yatsewidgetfree) - Kodi remote control. Multiple devices, nice big screen, and easy to use. If you use Kodi at home, you should have this.
 * [Simple Gallery](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery) - This is what QuickPic used to be. It's a gallery with all the features you want and nothing you don't. No ads, no junk features you'll never use, and not privacy invasive. Install this, use this. It's better than whatever you're using, I promise.
-
-## Customization
-* [Navbar Apps](https://play.google.com/store/apps/details?id=pl.damianpiwowarski.navbarapps) - Lets you use a transparent Navbar on Android. No root required. Great for phones with no physical buttons. I also don't understand how this isn't a normal feature, but whatever. Here it is.
 
 ## Root
 **WARNING:** These apps require advanced knowledge of Android and require a custom recovery. Don't even look at this section if the thought of losing your phone for a couple of days while you fix it makes you nervous.
@@ -107,6 +97,7 @@ This is just a list of apps that I personally have/use on various machines. Hope
 # Linux
 ## Automation
 * [Ansible](https://www.ansible.com/) - Simple automation for Linux. Works over SSH so no master server required. Great for maintaining your own stuff at home without a lot of overhead.
+* [Docker](https://www.docker.com/) - Containerize everything. Pair with [docker-compose](https://docs.docker.com/compose/install/) to make deployments of things super easy. Lots of great apps at [LinuxServer.io](https://linuxserver.io).
 
 ## Web Servers
 * [NGINX](https://www.nginx.com/) - Open-source high performance web server/load balancer. Lightweight and very fast.
