@@ -12,8 +12,8 @@ This is just a list of apps that I personally have/use on various machines. Hope
 * [Malwarebytes (aka MBAM)](https://www.malwarebytes.com/) - In my personal experience, this has been excellent at finding and removing less than desirable things from your system. Also very few false positives which means it isn't removing stuff it just doesn't like, but is actually dangerous. That being said, the Windows 10 built-in anti-virus is often more than sufficient.
 
 ## Browsers
-* [Chrome](https://www.google.com/chrome/) - Anything is better than Internet Explorer (or Edge). Chrome is a great replacement.
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Firefox is an excellent privacy-concious browser. And since Quantum (v59) it's a lot faster than it used to be.
+* [Chrome](https://www.google.com/chrome/) - Anything is better than Internet Explorer (or Edge). Chrome is a great replacement.
 * [Opera](https://www.opera.com/) - Built on Chrome, but includes a built in ad blocker and free VPN features. Really good if you want a little extra from Chrome.
 
 ### Extensions
@@ -43,7 +43,7 @@ This is just a list of apps that I personally have/use on various machines. Hope
 * [Google Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - If you subscribe (or even use) Google Music, this is a godsend. Google Music without a browser. Sort of.
 * [NZBGet](https://nzbget.net/) - If you know what an NZB is you want this. If you don't, nothing to see here.
 * [µTorrent](http://www.utorrent.com/) - My preferred torrent client (for Windows), though I don't use torrents much anymore. **Pro-tip:** Use the link below. µTorrent is not what it used to be unfortunately.
-* [Pimp My µTorrent](https://clips.twitch.tv/NastyGoodBobaChocolateRain) - Removes the annoying ads in µTorrent. Saves you $5/year which shouldn't even be a thing. Nothing to install. Just visit the website, click the button.
+* [Pimp My µTorrent](http://schizoduckie.github.io/PimpMyuTorrent/) - Removes the annoying ads in µTorrent. Saves you $5/year which shouldn't even be a thing. Nothing to install. Just visit the website, click the button.
 
 ## Network
 * [Private Internet Access](https://www.privateinternetaccess.com/) - An absolutely excellent and easy to use VPN service. It's not cheap but there are often good deals (Google for coupons!). Works on Windows, Mac, Android, iPhone, and Linux.
