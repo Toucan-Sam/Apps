@@ -36,14 +36,13 @@ This is just a list of apps that I personally have/use on various machines. Hope
 * [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Lightweight PDF reader. That's all. If you're not editing PDFs get rid of Adobe or Foxit and use this. It's perfect.
 * [Remote Desktop Manager](https://remotedesktopmanager.com/) - Incredibly useful tool that merges RDP, SSH, and a ton of other remote access tools into a single, easy to use, interface.
 * [HeidiSQL](https://www.heidisql.com/) - Portable SQL tool. MySQL, MSSQL, PostgreSQL. All in one tool. Keep it easy.
-* [VMware Workstation](https://www.vmware.com/products/workstation-pro.html) - Premiere virtualization tool. VirtualBox is a great open-source/free alternative.
+* [VMware Workstation](https://www.vmware.com/products/workstation-pro.html) - Premiere virtualization tool.
+* [VirtualBox](https://www.virtualbox.org/) - A great open-source/free alternative to VMware.
 
 ## Media
 * [VLC](http://www.videolan.org/) - The **ONLY** media player you'll ever need. Seriously. If it doesn't play in VLC it's either broken or a scam.
-* [Google Music Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - If you subscribe (or even use) Google Music, this is a godsend. Google Music without a browser. Sort of.
 * [NZBGet](https://nzbget.net/) - If you know what an NZB is you want this. If you don't, nothing to see here.
-* [µTorrent](http://www.utorrent.com/) - My preferred torrent client (for Windows), though I don't use torrents much anymore. **Pro-tip:** Use the link below. µTorrent is not what it used to be unfortunately.
-* [Pimp My µTorrent](http://schizoduckie.github.io/PimpMyuTorrent/) - Removes the annoying ads in µTorrent. Saves you $5/year which shouldn't even be a thing. Nothing to install. Just visit the website, click the button.
+* [Tixati](https://www.tixati.com/download/) - Not open source, but cross platform. No ads. Nothing sketchy. Just a torrent client doing what torrent clients do.
 
 ## Network
 * [Private Internet Access](https://www.privateinternetaccess.com/) - An absolutely excellent and easy to use VPN service. It's not cheap but there are often good deals (Google for coupons!). Works on Windows, Mac, Android, iPhone, and Linux.
@@ -62,7 +61,6 @@ This is just a list of apps that I personally have/use on various machines. Hope
 * [Signal](https://signal.org/) - The only properly free, no metadata gathering, privacy protecting, instant messenger. Text, pictures, voice and video calls. Does everything the rest of them do AND protects your privacy.
 * [WhatsApp](https://www.whatsapp.com/) - Nice lightweight messenger with no advertising. Owned by Facebook though.
 * [Facebook Messenger Lite](https://play.google.com/store/apps/details?id=com.facebook.mlite&hl=en) - Facebook Messenger without all the bloat. Much smaller app size and a cleaner interface without extra junk.
-* [Facebook Less Crap](https://forum.xda-developers.com/android/apps-games/bullshified-version-facebook-okay-to-t3586318) - Replaces the official Facebook app. Removes ads, sponsored posts, and a bunch of other junk. *Pro-tip:* You MUST uninstall any official Facebook apps to use this. The link also provides Messenger and Messenger Lite apps that are compatible.
 
 ## Vehicle
 * [Android Auto](https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead) - Extra simple interface for driving. Navigation, calls, and music. Nothing more, nothing less.
